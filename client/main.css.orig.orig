@@ -2,82 +2,82 @@
 Authors: Sahba Bahizad, Jami Schwarzwalder
 */
 img{
-
-    width: 100px;
+	
+	width: 100px;
 }
 
 img.discard-thumb{
-    width : 40px;
+	width : 40px;
 }
 #play {
-    width: 80px;
+	width: 80px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url(Play.png);
     background-repeat: no-repeat;
 }
 #cluenum {
-    width: 85px;
+	width: 85px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url('clue number.png');
     background-repeat: no-repeat;
 
 }
 #btn_back {
-    width: 85px;
+	width: 85px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url('back.png');
     background-repeat: no-repeat;
 
 }
 #btn_help {
-    width: 85px;
+	width: 85px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url('Help.png');
     background-repeat: no-repeat;
 
 }
 #btn_start{
-    width: 150px;
+	width: 150px;
     height: 90px;
-    background-size: 150px 90px;
+	background-size: 150px 90px;
     background-image: url('start.png');
     background-repeat: no-repeat;
 
 }
 #btn_resume{
-    width: 150px;
+	width: 150px;
     height: 90px;
-    background-size: 150px 90px;
+	background-size: 150px 90px;
     background-image: url('Resume.png');
     background-repeat: no-repeat;
 
 }
 
 #cluecolor {
-    width: 85px;
+	width: 85px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url('clue color.png');
     background-repeat: no-repeat;
 
 }
 #discard {
-    width: 85px;
+	width: 85px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url('Discard.png');
     background-repeat: no-repeat;
 
 }
 
 #newGame {
-    width: 85px;
+	width: 85px;
     height: 50px;
-    background-size: 80px 48px;
+	background-size: 80px 48px;
     background-image: url('New Game.png');
     background-repeat: no-repeat;
 
@@ -94,53 +94,53 @@ img.discard-thumb{
     bottom:0;
     width:20px;
     height:80px;
-    text-align:center;
-    font-weight: 600;
+	text-align:center;
+	font-weight: 600;
 }
 .bkg-img{
-     background: url("fireworks.png"), rgba(255, 0, 0, 0.25);
-
-    background-attachment: fixed;
-     color: white;
-     width:100%;
+	 background: url("fireworks.png"), rgba(255, 0, 0, 0.25);
+	
+	background-attachment: fixed;
+	 color: white;
+	 width:100%;
     height:850px;
-    text-align: center;
-
-
-}
+	text-align: center;
+	
+	 
+} 
 .bkg-img .dropdown-menu {
-    background-color: black;
+	background-color: black;
 }
 
 body {
-    background: rgba(255, 255, 255, 0.7) url("background.jpg") ;
-    opacity: 0.8;
+	background: rgba(255, 255, 255, 0.7) url("background.jpg") ;
+	opacity: 0.8;
 }
 .jumbotron {
-    margin: 2% 5%;
+	margin: 2% 5%;
 }
 .gamearea{
-    opacity: 1.2;
-    background-attachment: fixed;
-     color: white;
-     text-shadow: -2px -2px 0 #000,
+	opacity: 1.2;
+	background-attachment: fixed;
+	 color: white;
+	 text-shadow: -2px -2px 0 #000,
     2px -2px 0 #000,
     -2px 2px 0 #000,
-    2px 2px 0 #000;
-     width:100%;
+    2px 2px 0 #000; 
+	 width:100%;
     height:850px;
-    text-align: center;
-
-
-}
+	text-align: center;
+	
+	 
+} 
 .title{
-    color: #CEF0D4; font-family: 'Rouge Script', cursive; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0 0 50px; text-align: center; text-shadow: 1px 1px 2px #082b34;
-    text-align: center;
-     margin: auto;
-     padding:100px;
+	color: #CEF0D4; font-family: 'Rouge Script', cursive; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0 0 50px; text-align: center; text-shadow: 1px 1px 2px #082b34;
+	text-align: center;
+	 margin: auto;
+	 padding:100px;
 }
 
 a{
-    color: white;
-    font-size: 18px;
+	color: white;
+	font-size: 18px;
 }
