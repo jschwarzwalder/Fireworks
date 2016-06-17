@@ -1,0 +1,5 @@
+[Default]
+bears = SpaceConsistencyBear
+files = server/*.js, routing/*.js, client/*.*
+use_spaces = yeah
+default_actions = SpaceConsistencyBear: ApplyPatchAction
